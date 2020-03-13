@@ -168,7 +168,7 @@
 </tr>
 <tr>
 	<td colspan="4">
-	    <textarea name="JMSText" rows="30" cols="80">Enter some text here for the message body...</textarea>
+	    <textarea name="JMSText" rows="30" cols="80" placeholder="Enter some text here for the message body..."></textarea>
 	</td>
 </tr>
 </tbody>
